@@ -1,0 +1,74 @@
+ [
+      {
+        "id": "1",
+        "name": "t-shirt",
+        "image": "🍝",
+        "imageUrl": "assets/images/t-shirt.jpg",
+        "price": 559.00,
+        "quantity": 1,
+        "category": "Clothing",
+        "description": "Classic spaghetti with marinara sauce"
+      },
+      {
+        "id": "2",
+        "name": "TV",
+        "image": "🍕",
+        "imageUrl": "assets/images/TV.jpg",
+        "price": 10999.00,
+        "quantity": 1,
+        "category": "Electronics",
+        "description": "Delicious pizza with fresh toppings"
+      },
+      {
+        "id": "3",
+        "name": "refrigerator",
+        "image": "🍕",
+        "imageUrl": "assets/images/refrigerator.jpg",
+        "price": 8090.00,
+        "quantity": 1,
+        "category": "Electronics",
+        "description": "Delicious pizza with fresh toppings"
+      },
+      {
+        "id": "4",
+        "name": "dress",
+        "image": "🍕",
+        "imageUrl": "assets/images/dress.jpg",
+        "price": 1200.00,
+        "quantity": 1,
+        "category": "Clothing",
+        "description": "Delicious pizza with fresh toppings"
+      },
+      {
+        "id": "5",
+        "name": "diamond ring",
+        "image": "🍕",
+        "imageUrl": "assets/images/dress.jpg",
+        "price": 4099.00,
+        "quantity": 1,
+        "category": "Accessories",
+        "description": "Delicious pizza with fresh toppings"
+      },
+      {
+        "id": "6",
+        "name": "cap",
+        "image": "🍕",
+        "imageUrl": "assets/images/cap.jpg",
+        "price": 759.00,
+        "quantity": 1,
+        "category": "Accessories",
+        "description": "Delicious pizza with fresh toppings"
+      },
+      {
+        "id": "7",
+        "name": "bracelet",
+        "image": "🍕",
+        "imageUrl": "assets/images/bracelet.jpeg",
+        "price": 2590.00,
+        "quantity": 1,
+        "category": "Accessories",
+        "description": "Delicious pizza with fresh toppings"
+      }
+    
+ ]
+ 

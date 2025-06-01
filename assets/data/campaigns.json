@@ -1,0 +1,57 @@
+[
+    {
+        "id": "1",
+        "name": "Fixed amount",
+        "category": "Coupon",
+        "discount": 50,
+        "threshold": null,
+        "discount_type": "fixed",
+        "discount_category":  [],
+        "max_discount": null,
+        "isSelected": false
+    },
+    {
+        "id": "2",
+        "name": "Percentage discount",
+        "category": "Coupon",
+        "discount": 10,
+        "threshold": null,
+        "discount_type": "percentage",
+        "discount_category": [],
+        "max_discount": null,
+        "isSelected": false
+    },
+    {
+        "id": "3",
+        "name": "Percentage discount by item category",
+        "category": "On Top",
+        "discount": 15, 
+        "threshold": null,
+        "discount_type": "percentage",
+        "discount_category": [{"category":"Clothing"}, {"category":"Accessories"}],
+        "max_discount": null,
+        "isSelected": false
+    },  
+    {
+        "id": "4",
+        "name": "Discount by points",
+        "category": "On Top",
+        "discount": 15, 
+        "threshold": null,
+        "discount_type": "points",
+        "discount_category":  [],
+        "max_discount": 20,
+        "isSelected": false
+    },
+    {
+        "id": "5",
+        "name": "Special campaigns",
+        "category": "Seasonal",
+        "discount": 40,
+        "threshold": 300, 
+        "discount_type": "seasonal",
+        "discount_category": [],
+        "max_discount": null,
+        "isSelected": false
+    }
+]
